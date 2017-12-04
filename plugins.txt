@@ -13,4 +13,4 @@ parameterized-trigger
 git
 github
 matrix-auth
-docker-slaves
+docker-plugin
