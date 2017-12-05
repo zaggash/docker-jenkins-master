@@ -15,4 +15,5 @@ github
 matrix-auth
 envinject
 greenballs
-docker-plugin
+docker-slaves
+
