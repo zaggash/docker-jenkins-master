@@ -13,4 +13,5 @@ parameterized-trigger
 git
 github
 matrix-auth
+envinject
 docker-plugin
