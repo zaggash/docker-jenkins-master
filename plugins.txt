@@ -12,7 +12,9 @@ conditional-buildstep
 parameterized-trigger
 git
 github
+ghprb
 matrix-auth
 envinject
 greenballs
+slack
 swarm
