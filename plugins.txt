@@ -16,5 +16,6 @@ ghprb
 matrix-auth
 envinject
 greenballs
+blueocean
 slack
 swarm
